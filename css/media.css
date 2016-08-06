@@ -7,7 +7,7 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
-
+.xoverlay{width: 37%;margin: 5px auto;}
 }
 
 /* Small Devices, Tablets */
@@ -22,7 +22,7 @@
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
-
+.email-form {width: 290px;}
 }
 
 

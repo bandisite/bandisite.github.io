@@ -23,9 +23,8 @@ body{
 .txt-left{text-align: left;}
 ol,ul{list-style: none;}
 img{max-width: 100%;display: block;}
-a,a:hover,a:active,a:visited,a:link{text-decoration: none;}
+a,a:hover,a:active,a:visited,a:link{text-decoration: none;outline:none;color:#fff;}
 h1{margin: 0;}
-
 /********************************************/
 .box{padding: 80px 0;}
 .title{
